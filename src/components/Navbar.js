@@ -36,8 +36,8 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
-          <h1 className="brand"> SRIRAM </h1>
+        <Navbar.Brand href="/Sriram-Alokam/"  className="d-flex">
+          <h1 className="brand" > SRIRAM </h1>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
