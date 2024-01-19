@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             
             <br />
-            I have completed My Master's in Computer Science From Texas Tech University.
-             I completed my Bachelor of Technology in Computer Scienece From acharya nagarjuna university.
+            I am a proficient and motivated problem solver with a strong academic background, having earned a <span className="purple"> Master's degree</span> in Computer Science from Texas Tech University. My expertise spans both frontend and backend technologies, reflecting a comprehensive skill set developed through hands-on experience and academic rigor.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -32,7 +31,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."{" "}
           </p>
           <footer className="blockquote-footer">Alokam Sriram</footer>
         </blockquote>
