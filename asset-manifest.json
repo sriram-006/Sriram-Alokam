@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sriram-Alokam/static/css/main.c3dd82f4.css",
-    "main.js": "/Sriram-Alokam/static/js/main.501b1fdb.js",
+    "main.js": "/Sriram-Alokam/static/js/main.1ef685a9.js",
     "static/js/415.4d6acbeb.chunk.js": "/Sriram-Alokam/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Sriram-Alokam/static/js/787.1ed0c42c.chunk.js",
     "static/media/home-main.svg": "/Sriram-Alokam/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/Sriram-Alokam/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Sriram-Alokam/index.html",
     "main.c3dd82f4.css.map": "/Sriram-Alokam/static/css/main.c3dd82f4.css.map",
-    "main.501b1fdb.js.map": "/Sriram-Alokam/static/js/main.501b1fdb.js.map",
+    "main.1ef685a9.js.map": "/Sriram-Alokam/static/js/main.1ef685a9.js.map",
     "415.4d6acbeb.chunk.js.map": "/Sriram-Alokam/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Sriram-Alokam/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3dd82f4.css",
-    "static/js/main.501b1fdb.js"
+    "static/js/main.1ef685a9.js"
   ]
 }
