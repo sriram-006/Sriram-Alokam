@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 
 
 import { Link } from "react-router-dom";
-
+import { PiCertificate } from "react-icons/pi";
 import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
@@ -79,7 +79,15 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/certifications"
+                onClick={() => updateExpanded(false)}
+              >
+                <PiCertificate style={{ marginBottom: "2px" }} /> Certifications
+              </Nav.Link>
+            </Nav.Item>
             <Nav.Item>
               <Nav.Link
                 as={Link}
